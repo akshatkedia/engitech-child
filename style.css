@@ -1,11 +1,12 @@
 /*
-Theme Name:     Engitech Child
-Theme URI:      http://wpdemo.archiwp.com/engitech/
-Description:    Make your modifications to [Parent Theme] in this child theme.
-Author:         Oceanthemes
-Author URI:     http://oceanthemes.net/
-Version:        1.0
-Template:       engitech
+Theme Name:       Engitech Child
+Theme URI:        http://wpdemo.archiwp.com/engitech/
+Description:      Make your modifications to [Parent Theme] in this child theme.
+Author:           Oceanthemes
+Author URI:       http://oceanthemes.net/
+Version:          1.0
+Template:         engitech
+GitHub Theme URI: akshatkedia/engitech-child
 */
 
 @import url("../engitech/style.css");
