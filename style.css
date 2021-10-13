@@ -4,7 +4,7 @@ Theme URI:        http://wpdemo.archiwp.com/engitech/
 Description:      Make your modifications to [Parent Theme] in this child theme.
 Author:           Oceanthemes
 Author URI:       http://oceanthemes.net/
-Version:          1.0.2
+Version:          1.0.3
 Template:         engitech
 GitHub Theme URI: akshatkedia/engitech-child
 */
@@ -19,5 +19,9 @@ GitHub Theme URI: akshatkedia/engitech-child
 }
 
 .ot-image-box .overlay {
-  background: rgba(var(--e-global-color-primary), 0.2);
+  background: rgba(34, 49, 109, 0.4);
+}
+
+.ot-image-box h4 {
+  padding: 20px;
 }
