@@ -17,3 +17,7 @@ GitHub Theme URI: akshatkedia/engitech-child
     max-width: 1300px;
   }
 }
+
+.ot-image-box .overlay {
+  background: rgba(var(--e-global-color-primary), 0.2);
+}
