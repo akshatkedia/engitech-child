@@ -4,7 +4,7 @@ Theme URI:        http://wpdemo.archiwp.com/engitech/
 Description:      Make your modifications to [Parent Theme] in this child theme.
 Author:           Oceanthemes
 Author URI:       http://oceanthemes.net/
-Version:          1.0.6
+Version:          1.0.7
 Template:         engitech
 GitHub Theme URI: akshatkedia/engitech-child
 */
@@ -32,6 +32,6 @@ GitHub Theme URI: akshatkedia/engitech-child
 }
 
 .single-post .page-header .page-title {
-  font-size: 38px;
+  font-size: 42px;
   text-transform: none;
 }
